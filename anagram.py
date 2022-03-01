@@ -26,5 +26,4 @@ def check_anagram(string1='Mary', string2='Army'):
 # string2= "Army"
 
 string1, string2 = str(input("Enter the 2 strings space separated: ")).split()
-# print(str1, str2)
 check_anagram(string1, string2)
